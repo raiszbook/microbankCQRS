@@ -1,6 +1,6 @@
 package com.banking.account.cmd.api.controllers;
 
-import com.banking.account.cmd.api.command.DepositFundsCommand;
+
 import com.banking.account.cmd.api.command.WithdrawFundsCommand;
 import com.banking.account.common.dto.BaseResponse;
 import com.banking.cqrs.core.exceptions.AggregateNotFoundException;
