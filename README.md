@@ -1,11 +1,13 @@
 Swagger MicroBanco - Reactive Banking Platform 3.0
-I use the CQRS pattern
-I use Kafka
-I use Swagger
-I use Docker
-I use Microservices
-Stream still needs to be implemented.
-Functional still needs to be implemented.
+* Use Kafka
+* Use Docker
+* Use Microservice
+* Use CQRS Pattern 
+* Use Lombok
+* Use Swagger
+* "Reactive X" is pending
+* "Observer" is pending
+* "Stream" is pending
 
 
 ![image](https://github.com/raiszbook/microbankCQRS/assets/33364775/73c4cf47-19b8-400e-8ffa-18ac518fee5f)
